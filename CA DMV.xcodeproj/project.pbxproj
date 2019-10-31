@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		15D916D2236943D700E4D961 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15D916D1236943D700E4D961 /* main.cpp */; };
+		15D916DA2369440A00E4D961 /* Question.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15D916D82369440A00E4D961 /* Question.cpp */; };
+		15E748FB236AA3410095FBBD /* welcome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15E748FA236AA3410095FBBD /* welcome.cpp */; };
+		15E74902236AA9BA0095FBBD /* Menu.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15E74900236AA9BA0095FBBD /* Menu.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,12 @@
 /* Begin PBXFileReference section */
 		15D916CE236943D700E4D961 /* CA DMV */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CA DMV"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15D916D1236943D700E4D961 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		15D916D82369440A00E4D961 /* Question.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Question.cpp; sourceTree = "<group>"; };
+		15D916D92369440A00E4D961 /* Question.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Question.hpp; sourceTree = "<group>"; };
+		15E748F9236A6E000095FBBD /* welcome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = welcome.h; sourceTree = "<group>"; };
+		15E748FA236AA3410095FBBD /* welcome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = welcome.cpp; sourceTree = "<group>"; };
+		15E74900236AA9BA0095FBBD /* Menu.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Menu.cpp; sourceTree = "<group>"; };
+		15E74901236AA9BA0095FBBD /* Menu.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Menu.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +67,12 @@
 			isa = PBXGroup;
 			children = (
 				15D916D1236943D700E4D961 /* main.cpp */,
+				15D916D82369440A00E4D961 /* Question.cpp */,
+				15D916D92369440A00E4D961 /* Question.hpp */,
+				15E748F9236A6E000095FBBD /* welcome.h */,
+				15E748FA236AA3410095FBBD /* welcome.cpp */,
+				15E74900236AA9BA0095FBBD /* Menu.cpp */,
+				15E74901236AA9BA0095FBBD /* Menu.hpp */,
 			);
 			path = "CA DMV";
 			sourceTree = "<group>";
@@ -119,7 +134,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				15E748FB236AA3410095FBBD /* welcome.cpp in Sources */,
 				15D916D2236943D700E4D961 /* main.cpp in Sources */,
+				15E74902236AA9BA0095FBBD /* Menu.cpp in Sources */,
+				15D916DA2369440A00E4D961 /* Question.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,10 +194,13 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "";
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = "";
 				SDKROOT = macosx;
 			};
 			name = Debug;
@@ -228,9 +249,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "";
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				OTHER_LDFLAGS = "";
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -238,9 +262,13 @@
 		15D916D6236943D700E4D961 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = T2HTP3F46B;
 				ENABLE_HARDENED_RUNTIME = YES;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/include";
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -248,9 +276,13 @@
 		15D916D7236943D700E4D961 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = T2HTP3F46B;
 				ENABLE_HARDENED_RUNTIME = YES;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/include";
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
