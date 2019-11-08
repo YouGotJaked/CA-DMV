@@ -22,7 +22,6 @@ struct Menu_Item {
 };
 
 bool is_numeric(const string& str);
-void to_lowercase(string& str);
 void option_select(Menu_Item *p_menu, unsigned int quantity);
 void Menu_Engine(Menu_Item *p_menu, unsigned int quantity);
 

@@ -32,11 +32,13 @@ public:
     Question(string question, string correct);
     Question(string question, string correct, Answers answers);
 
-    //Question& operator=(const Question& other);
     string question() const { return this->_question; }
     string correct() const { return this->_correct; }
     Answers answers() const { return this->_answers; }
     
+    void set_question(const string& q) { this->_question = q; }
+    void set_correct(const string& c) { this->_correct = c; }
+    void add_answer(const string& a) { this->_answers.push_back(a); }
     template<class Archive>
     void serialize(Archive& archive) { archive(_question, _correct, _answers); }
 };

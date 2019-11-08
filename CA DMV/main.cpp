@@ -7,10 +7,10 @@
 //
 
 #include <iostream>
-#include "Question.hpp"
+#include "QuestionList.h"
 #include "welcome.h"
 
-#define QUESTION_FILE "questions.json"
+#define QUESTION_FILE "/Users/jakeday/questions.json"
 
 using namespace cereal;
 
@@ -22,28 +22,33 @@ using std::ifstream;
 
 int main(int argc, const char * argv[]) {
     welcome();
-    /*
+    
     string q = "test";
     Answers a {"a","b","c"};
     string c = "a";
     Question q1(q,c,a);
     cout << q1 << endl;
+
+    Question q2(q,c,a);
+    
+    QuestionList q_lst;
+    q_lst.add_question(q1);
+    q_lst.add_question(q2);
+    
     {
         ofstream os(QUESTION_FILE);
         JSONOutputArchive oarchive(os);
-        oarchive(q1);
+        oarchive(q_lst);
     }
-    Question q2;
+    
     {
+        QuestionList q_lst_2;
         ifstream is(QUESTION_FILE);
         JSONInputArchive iarchive(is);
-        iarchive(q2);
-        
+        iarchive(q_lst_2);
+        cout << q_lst_2 << endl;
     }
-    cout << q2 << endl;
-     */
-    
-    
+
     
     return 0;
 }

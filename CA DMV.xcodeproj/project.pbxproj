@@ -34,6 +34,7 @@
 		15E748FA236AA3410095FBBD /* welcome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = welcome.cpp; sourceTree = "<group>"; };
 		15E74900236AA9BA0095FBBD /* Menu.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Menu.cpp; sourceTree = "<group>"; };
 		15E74901236AA9BA0095FBBD /* Menu.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Menu.hpp; sourceTree = "<group>"; };
+		15E74905236BC3080095FBBD /* QuestionList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuestionList.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +70,7 @@
 				15D916D1236943D700E4D961 /* main.cpp */,
 				15D916D82369440A00E4D961 /* Question.cpp */,
 				15D916D92369440A00E4D961 /* Question.hpp */,
+				15E74905236BC3080095FBBD /* QuestionList.h */,
 				15E748F9236A6E000095FBBD /* welcome.h */,
 				15E748FA236AA3410095FBBD /* welcome.cpp */,
 				15E74900236AA9BA0095FBBD /* Menu.cpp */,
