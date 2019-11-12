@@ -10,7 +10,7 @@
 #define welcome_h
 
 #include "Menu.hpp"
-#include "QuestionList.h"
+#include "QuestionList.hpp"
 #include <string>
 #include <vector>
 
@@ -21,6 +21,7 @@ typedef vector<string> Menu_Options;
 
 // Helper
 void to_lowercase(string& str);
+string unsigned_char_to_string(const unsigned char& c);
 
 // Main Menu
 void admin_mode();

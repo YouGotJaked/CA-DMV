@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		153D08D0237887A7007831C1 /* QuestionList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 153D08CE237887A7007831C1 /* QuestionList.cpp */; };
+		153D08D3237A56AA007831C1 /* Test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 153D08D1237A56AA007831C1 /* Test.cpp */; };
 		15D916D2236943D700E4D961 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15D916D1236943D700E4D961 /* main.cpp */; };
 		15D916DA2369440A00E4D961 /* Question.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15D916D82369440A00E4D961 /* Question.cpp */; };
 		15E748FB236AA3410095FBBD /* welcome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15E748FA236AA3410095FBBD /* welcome.cpp */; };
@@ -26,6 +28,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		153D08CE237887A7007831C1 /* QuestionList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = QuestionList.cpp; sourceTree = "<group>"; };
+		153D08CF237887A7007831C1 /* QuestionList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = QuestionList.hpp; sourceTree = "<group>"; };
+		153D08D1237A56AA007831C1 /* Test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Test.cpp; sourceTree = "<group>"; };
+		153D08D2237A56AA007831C1 /* Test.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Test.hpp; sourceTree = "<group>"; };
 		15D916CE236943D700E4D961 /* CA DMV */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CA DMV"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15D916D1236943D700E4D961 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		15D916D82369440A00E4D961 /* Question.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Question.cpp; sourceTree = "<group>"; };
@@ -34,7 +40,6 @@
 		15E748FA236AA3410095FBBD /* welcome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = welcome.cpp; sourceTree = "<group>"; };
 		15E74900236AA9BA0095FBBD /* Menu.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Menu.cpp; sourceTree = "<group>"; };
 		15E74901236AA9BA0095FBBD /* Menu.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Menu.hpp; sourceTree = "<group>"; };
-		15E74905236BC3080095FBBD /* QuestionList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuestionList.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,11 +75,14 @@
 				15D916D1236943D700E4D961 /* main.cpp */,
 				15D916D82369440A00E4D961 /* Question.cpp */,
 				15D916D92369440A00E4D961 /* Question.hpp */,
-				15E74905236BC3080095FBBD /* QuestionList.h */,
 				15E748F9236A6E000095FBBD /* welcome.h */,
 				15E748FA236AA3410095FBBD /* welcome.cpp */,
+				153D08D1237A56AA007831C1 /* Test.cpp */,
+				153D08D2237A56AA007831C1 /* Test.hpp */,
 				15E74900236AA9BA0095FBBD /* Menu.cpp */,
 				15E74901236AA9BA0095FBBD /* Menu.hpp */,
+				153D08CE237887A7007831C1 /* QuestionList.cpp */,
+				153D08CF237887A7007831C1 /* QuestionList.hpp */,
 			);
 			path = "CA DMV";
 			sourceTree = "<group>";
@@ -139,7 +147,9 @@
 				15E748FB236AA3410095FBBD /* welcome.cpp in Sources */,
 				15D916D2236943D700E4D961 /* main.cpp in Sources */,
 				15E74902236AA9BA0095FBBD /* Menu.cpp in Sources */,
+				153D08D3237A56AA007831C1 /* Test.cpp in Sources */,
 				15D916DA2369440A00E4D961 /* Question.cpp in Sources */,
+				153D08D0237887A7007831C1 /* QuestionList.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

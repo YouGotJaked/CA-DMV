@@ -24,6 +24,7 @@ bool is_numeric(const string& str) {
     return !str.empty() && it == str.end();
 }
 
+// Select a menu option based on the input
 void option_select(Menu_Item *p_menu, unsigned int quantity) {
     unsigned int selection, i;
     string input;
@@ -51,8 +52,8 @@ void option_select(Menu_Item *p_menu, unsigned int quantity) {
     } while (true);
 }
 
+// Display the menu and its options
 void Menu_Engine(Menu_Item *p_menu, unsigned int quantity) {
-    // Display the menu
     for (unsigned int i = 0; i < quantity; i++) {
         cout << "\t[" << p_menu[i].number << "] " << p_menu[i].text << endl;
     }
