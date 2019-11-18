@@ -41,18 +41,17 @@ void admin_mode() {
 
 // Create a Test to randomize questions and answers
 void new_test() {
-    cout << "\nStarting new test..." << endl;
+    string input, correct_key_str, correct_text;
+    unsigned int current_q;
+    unsigned char correct_key;
     Test t(Test_Questions.questions());
     
-    string input;
+    cout << "\nStarting new test..." << endl;
     
-    while (!t.questions().empty()) {
-        cout << t.current_question() << endl;
+    for (current_q = 1; !t.questions().empty(); current_q++, t.next_question()) {
+        cout << current_q << ". " << t.current_question() << endl;
         cout << "Your answer:\t";
         getline(cin, input);
-        
-        unsigned char correct_key;
-        string correct_key_str, correct_text;
         
         correct_text = t.current_question().correct();
         t.current_question().find_by_value(correct_text, correct_key);
@@ -64,9 +63,9 @@ void new_test() {
         } else {
             cout << "Incorrect! You answered [" << input << "] but the correct answer was [" << correct_key << "]" << endl;
         }
-        t.next_question();
     }
-    cout << "You got " << t.total_correct() << " answers correct!" << endl;
+    t.update_percent_correct();
+    cout << "You got " << t.percent_correct() << "% correct!" << endl;
 }
 
 void previous_test() {

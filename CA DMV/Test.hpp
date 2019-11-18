@@ -27,7 +27,7 @@ public:
     void randomize_questions();
     void randomize_answers();
     void update_total_correct() { _total_correct += 1; }
-    void update_percent_correct();
+    void update_percent_correct() { _percent_correct = (_total_correct / (double)_total_questions) * 100; }
     void next_question() { _questions.pop(); }
     
     QuestionQueue questions() const { return this->_questions; }
