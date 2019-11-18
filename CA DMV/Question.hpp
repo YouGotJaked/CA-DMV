@@ -24,10 +24,7 @@ using std::vector;
 using std::string;
 using std::ostream;
 using std::map;
-/*
-using pair_type = std::pair<unsigned char, string>;
-typedef vector<pair_type> Answers;
-*/
+
 typedef map<unsigned char,string> Answers;
 
 class Question {

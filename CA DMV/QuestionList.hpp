@@ -9,9 +9,9 @@
 #ifndef QuestionList_hpp
 #define QuestionList_hpp
 
-#define QUESTION_FILE "/Users/jakeday/questions.json"
-
 #include "Question.hpp"
+
+#define QUESTION_FILE "/Users/jakeday/questions.json"
 
 using namespace cereal;
 
@@ -37,6 +37,7 @@ public:
     template<class Archive>
     void serialize(Archive& archive) { archive(_question_list); }
 };
+
 
 ostream& operator<<(ostream& out, const QuestionList& q_lst);
 
