@@ -10,11 +10,12 @@
 #define filepath_h
 
 #include <string>
-#include <unistd.h>
-#include <limits.h>
 
 #ifdef _WIN32
 #include <windows.h>
+#else
+#include <unistd.h>
+#include <limits.h>
 #endif
 
 using std::string;
