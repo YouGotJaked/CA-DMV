@@ -1,0 +1,906 @@
+{
+    "value0": {
+        "value0": [
+            {
+                "value0": "You may drive off of the paved roadway to pass another vehicle",
+                "value1": "Under no circumstances",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "If the shoulder is wide enough to accommodate your vehicle"
+                    },
+                    {
+                        "key": 98,
+                        "value": "If the vehicle ahead of you is turning left"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Under no circumstances"
+                    }
+                ]
+            },
+            {
+                "value0": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is",
+                "value1": "15 mph",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "15 mph"
+                    },
+                    {
+                        "key": 98,
+                        "value": "20 mph"
+                    },
+                    {
+                        "key": 99,
+                        "value": "25 mph"
+                    }
+                ]
+            },
+            {
+                "value0": "When parking your vehicle parallel to the curb on a level street",
+                "value1": "Your wheels must be within 18 inches of the curb",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Your front wheels must be turned toward the street"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Your wheels must be within 18 inches of the curb"
+                    },
+                    {
+                        "key": 99,
+                        "value": "One of your rear wheels must touch the curb"
+                    }
+                ]
+            },
+            {
+                "value0": "When you are merging onto the freeway, you should be driving",
+                "value1": "At or near the same speed as the traffic on the freeway",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "At or near the same speed as the traffic on the freeway"
+                    },
+                    {
+                        "key": 98,
+                        "value": "5 to 10 MPH slower than the traffic on the freeway"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The posted speed limit for traffic on the freeway"
+                    }
+                ]
+            },
+            {
+                "value0": "When driving in fog, you should use your ",
+                "value1": "Low beams",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Fog lights only"
+                    },
+                    {
+                        "key": 98,
+                        "value": "High beams"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Low beams"
+                    }
+                ]
+            },
+            {
+                "value0": "A white painted curb means",
+                "value1": "Loading zone for passengers or mail only",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Loading zone for freight or passengers"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Loading zone for passengers or mail only"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Loading zone for freight only"
+                    }
+                ]
+            },
+            {
+                "value0": "A school bus ahead of you in your lane is stopped with red lights flashing. You should",
+                "value1": "Stop as long as the red lights are flashing",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stop, then proceed when you think all of the children have exited the bus"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Slow to 25 MPH and pass cautiously"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Stop as long as the red lights are flashing"
+                    }
+                ]
+            },
+            {
+                "value0": "California's \"Basic Speed Law\" says",
+                "value1": "You should never drive faster than is safe for current conditions",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "You should never drive faster than posted speed limits"
+                    },
+                    {
+                        "key": 98,
+                        "value": "You should never drive faster than is safe for current conditions"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The maximum speed limit in California is 70 mph on certain freeways"
+                    }
+                ]
+            },
+            {
+                "value0": "You just sold your vehicle. You must notify the DMV within ___ days",
+                "value1": "5",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "5"
+                    },
+                    {
+                        "key": 98,
+                        "value": "10"
+                    },
+                    {
+                        "key": 99,
+                        "value": "15"
+                    }
+                ]
+            },
+            {
+                "value0": "To avoid last minute moves, you should be looking down the road to where your vehicle will be in about __________",
+                "value1": "10 to 15 seconds",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "5 to 10 seconds"
+                    },
+                    {
+                        "key": 98,
+                        "value": "10 to 15 seconds"
+                    },
+                    {
+                        "key": 99,
+                        "value": "15 to 20 seconds"
+                    }
+                ]
+            },
+            {
+                "value0": "You are about to make a left turn. You must signal continously during the last ____ feet before the turn",
+                "value1": "100",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "50"
+                    },
+                    {
+                        "key": 98,
+                        "value": "75"
+                    },
+                    {
+                        "key": 99,
+                        "value": "100"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of the following statements about blind spots is true",
+                "value1": "Large trucks have bigger blind spots than most passenger vehicles",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "They are eliminated if you have one outside mirror on each side of the vehicle"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Large trucks have bigger blind spots than most passenger vehicles"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Blind spots can be checked by looking in your rear view mirrors"
+                    }
+                ]
+            },
+            {
+                "value0": "You have been involved in a minor traffic collision with a parked vehicle and you can't find the owner. You must",
+                "value1": "Both of the above",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Leave a note on the vehicle"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Report the accident without delay to the city police or, in unincorporated areas, to the CHP"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Both of the above"
+                    }
+                ]
+            },
+            {
+                "value0": "Unless otherwise posted the speed limit in a residential area is ____",
+                "value1": "25 mph",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "20 mph"
+                    },
+                    {
+                        "key": 98,
+                        "value": "25 mph"
+                    },
+                    {
+                        "key": 99,
+                        "value": "30 mph"
+                    }
+                ]
+            },
+            {
+                "value0": "You may legally block an intersection",
+                "value1": "Under no circumstances",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "When you entered the intersection on the green light"
+                    },
+                    {
+                        "key": 98,
+                        "value": "During rush hour traffic"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Under no circumstances"
+                    }
+                ]
+            },
+            {
+                "value0": "When parking uphill on a two-way street with no curb, your front wheels should be",
+                "value1": "Turned to the right (away from the street)",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Turned to the left (toward the street)"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Turned to the right (away from the street)"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Parallel with the pavement"
+                    }
+                ]
+            },
+            {
+                "value0": "With a Class C drivers license a person may drive",
+                "value1": "A 3-axle vehicle if the Gross Vehicle Weight is less than 6,000 pounds",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "A 3-axle vehicle if the Gross Vehicle Weight is less than 6,000 pounds"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Any 3-axle vehicle regardless of the weight"
+                    },
+                    {
+                        "key": 99,
+                        "value": "A vehicle pulling two trailers"
+                    }
+                ]
+            },
+            {
+                "value0": "To turn left from a multilane one-way street onto a one-way street, you should start your turn from",
+                "value1": "The lane closest to the left curb",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Any lane (as long as it its safe)"
+                    },
+                    {
+                        "key": 98,
+                        "value": "The lane closest to the left curb"
+                    },
+                    {
+                        "key": 99,
+                        "value": "THe lane in the center of the road"
+                    }
+                ]
+            },
+            {
+                "value0": "If you are involved in a traffic collision, you are required to complete and submit a written report (SR1) to the DMV",
+                "value1": "If there is property damage in excess of $1,000 or if there are any injuries",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Only if you or the other driver is injured"
+                    },
+                    {
+                        "key": 98,
+                        "value": "If there is property damage in excess of $1,000 or if there are any injuries"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Only if you are at fault"
+                    }
+                ]
+            },
+            {
+                "value0": "Roadways are the most slippery",
+                "value1": "The first rain after a dry spell",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "During a heavy downpour"
+                    },
+                    {
+                        "key": 98,
+                        "value": "After it has been raining for awhile"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The first rain after a dry spell"
+                    }
+                ]
+            },
+            {
+                "value0": "You may not park your vehicle",
+                "value1": "Withiin 100 feet of an n 100 feet of an elementary school",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "On the side of the freeway in an emergency"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Next to a red painted curb"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Within 100 feet of an elementary school"
+                    }
+                ]
+            },
+            {
+                "value0": "You must notify the DMV within 5 days if you",
+                "value1": "Sell or transfer your vehicle",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Sell or transfer your vehicle"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Fail a smog test for your vehicle"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Get a new prescription for lenses or contacts"
+                    }
+                ]
+            },
+            {
+                "value0": "Two sets of solid, double, yellow lines that are two or more feet apart",
+                "value1": "May not be crossed for any reason",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "May be crossed to enter or exit a private driveway"
+                    },
+                    {
+                        "key": 98,
+                        "value": "May not be crossed for any reason"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Should be treated as a separate traffic lane"
+                    }
+                ]
+            },
+            {
+                "value0": "You want to make a right turn at an upcoming intersection. You should slow down and",
+                "value1": "Signal for 100 feet before turning",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Move toward the left side of your lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Avoid driving in the bicycle lane"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Signal for 100 feet before turning"
+                    }
+                ]
+            },
+            {
+                "value0": "You are driving on a freeway posted for 65 MPH. The traffic is traveling at 70 MPH. You may legally drive",
+                "value1": "No faster than 65 mph",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "70 mph or faster to keep up with the speed of traffic"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Between 65 mph and 70 mph"
+                    },
+                    {
+                        "key": 99,
+                        "value": "No faster than 65 mph"
+                    }
+                ]
+            },
+            {
+                "value0": "It is illegal to park your vehicle",
+                "value1": "In an unmarked crosswalk",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "In an unmarked crosswalk"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Within three feet of a private driveway"
+                    },
+                    {
+                        "key": 99,
+                        "value": "In a bicycle lane"
+                    }
+                ]
+            },
+            {
+                "value0": "The safest precaution that you can take regarding the use of cellular phones and driving is",
+                "value1": "Use hands-free devices so you can keep both hands on the steering wheel",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Use hands-free devices so you can keep both hands on the steering wheel"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Keep your phone within easy reach so you won't need to take your eyes off the road"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Review the number before answering the call"
+                    }
+                ]
+            },
+            {
+                "value0": "If you have a green light, but traffic is blocking the intersection, you should",
+                "value1": "Stay out of the intersection until traffic clears",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stay out of the intersection until traffic clears"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Enter the intersection and wait until traffic clears"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Merge into another lane and try to go around the traffic"
+                    }
+                ]
+            },
+            {
+                "value0": "You are getting ready to make a right turn. You should",
+                "value1": "Slow down or stop if necessary, and then make the turn",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Signal and turn immediately"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Stop before entering the right lane and let all other traffic go first"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Slow down or stop if necessary, and then make the turn"
+                    }
+                ]
+            },
+            {
+                "value0": "You must obey instructions from school crossing guards",
+                "value1": "At all times",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "At all times"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Only during school hours"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Unless you do not see any children present"
+                    }
+                ]
+            },
+            {
+                "value0": "It is a very windy day. You are driving and a dust storm blows across the freeway reducing your visibility. You should drive slower and turn on your",
+                "value1": "Headlights",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Interior lights"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Parking lights"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Headlights"
+                    }
+                ]
+            },
+            {
+                "value0": "If you plan to pass another vehicle, you should",
+                "value1": "Not assume the other driver will make space for you to return to your lane",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Not assume the other driver will make space for you to return to your lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Assume the other drive will let you pass if you use your turn signal"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Assume the other drive will maintain a constant speed"
+                    }
+                ]
+            },
+            {
+                "value0": "You are driving on a freeway posted for 65 mph. Most of the other vehicles are driving 70 mph or faster. You may legally drive",
+                "value1": "No faster than 65 mph",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "70 mph or faster to keep up with the speed of traffic"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Between 65 mph and 70 mph"
+                    },
+                    {
+                        "key": 99,
+                        "value": "No faster than 65 mph"
+                    }
+                ]
+            },
+            {
+                "value0": "If you drive faster than other vehicles on a road with one lane in each direction and continually pass the other cars, you will",
+                "value1": "Increase your changes of an accident",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Get you to your destination much faster and safer"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Increase your changes of an accident"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Help prevent traffic congestion"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of these vehicles must always stop before crossing railroad tracks",
+                "value1": "Tank trucks marked with hazardous materials placards",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Tank trucks marked with hazardous materials placards"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Motor homes or pickup trucks towing a boat trailer"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Any vehicle with 3 or more axles or weighing more than 4,000 pounds"
+                    }
+                ]
+            },
+            {
+                "value0": "You are driving on a one-way street. You may turn left onto another one-way street only if",
+                "value1": "Traffic on the street moves to the left",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "A sign permits the turn"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Traffic on the street moves to the right"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Traffic on the street moves to the left"
+                    }
+                ]
+            },
+            {
+                "value0": "A large truck is ahead of you and is turning right onto a street with two lanes in each direction. The truck",
+                "value1": "May have to swing wide to complete the right turn",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "May complete its turn in either of the two lanes"
+                    },
+                    {
+                        "key": 98,
+                        "value": "May have to swing wide to complete the right turn"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Must stay in the right lane at all times while turning"
+                    }
+                ]
+            },
+            {
+                "value0": "You may cross a double yellow line to pass another vehicle, if the yellow line next to",
+                "value1": "Your side of the road is a broken line",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "The other side of the road is a solid line"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Your side of the road is a broken line"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The other side of the road is a broken line"
+                    }
+                ]
+            },
+            {
+                "value0": "At intersections, crosswalks, and railroad crossings, you should always",
+                "value1": "Look to the sides of your vehicle to see what is coming",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stop, listen, and proceed cautiously"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Look to the sides of your vehicle to see what is coming"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Slowly pass vehicles that seem to be stopped for no reason"
+                    }
+                ]
+            },
+            {
+                "value0": "You drive defensively when you",
+                "value1": "Keep your eyes moving to look for possible hazards",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Always put one car length between you and the car ahead"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Look only at the car in front of you while driving"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Keep your eyes moving to look for possible hazards"
+                    }
+                ]
+            },
+            {
+                "value0": "You are driving on the freeway. The vehicle in front of you is a large truck. You should drive",
+                "value1": "Farther behind the truck than you would for a passenger vehicle",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Closely behind the truck in bad weather because the driver can see farther ahead"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Farther behind the truck than you would for a passenger vehicle"
+                    },
+                    {
+                        "key": 99,
+                        "value": "No more than one car length behind the truck so the driver can see you"
+                    }
+                ]
+            },
+            {
+                "value0": "All of the following practices are dangerous to do while driving. Which of these is also illegal",
+                "value1": "Listening to music through headphones that cover both ears",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Listening to music through headphones that cover both ears"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Adjusting your outside mirrors"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Transporting an unrestrained animal inside the vehicle"
+                    }
+                ]
+            },
+            {
+                "value0": "Always stop before you cross railroad tracks when",
+                "value1": "You don't have room on the other side to completely cross the tracks",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "You don't have room on the other side to completely cross the tracks"
+                    },
+                    {
+                        "key": 98,
+                        "value": "The railroad crossing is located in a city or town that has frequent train traffic"
+                    },
+                    {
+                        "key": 99,
+                        "value": "You transport two or more young children in a passenger vehicle"
+                    }
+                ]
+            },
+            {
+                "value0": "When you tailgate other drivers (drive close to their rear bumper)",
+                "value1": "You can frustrate the other drivers and make them angry",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "You can frustrate the other drivers and make them angry"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Your actions cannot result in a traffic citation"
+                    },
+                    {
+                        "key": 99,
+                        "value": "You help reduce traffic congestion"
+                    }
+                ]
+            },
+            {
+                "value0": "Should you always drive slower than other traffic",
+                "value1": "No, you can block traffic when you drive too slowly",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "No, you can block traffic when you drive too slowly"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Yes, it is a good defensive driving technique"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Yes, it is always safer than driving faster than other traffic"
+                    }
+                ]
+            },
+            {
+                "value0": "You see a signal persion at a road construction site ahead. You should obey his or her instructions",
+                "value1": "At all times",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Only if you see orange cones on the road ahead"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Unless they conflict with existing signs, signals, or laws"
+                    },
+                    {
+                        "key": 99,
+                        "value": "At all times"
+                    }
+                ]
+            },
+            {
+                "value0": "When can you drive in a bicycle lane",
+                "value1": "When you are within 200 feet of a cross street where you plan to turn right",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "During rush hour traffic if there are no bicyclists in the bike lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "When you are within 200 feet of a cross street where you plan to turn right"
+                    },
+                    {
+                        "key": 99,
+                        "value": "When you want to pass a driver ahead of you who is turning right"
+                    }
+                ]
+            },
+            {
+                "value0": "You see a flashing yellow traffic signal at an upcoming intersection. The flashing yellow light means",
+                "value1": "Slow down and cross the intersection carefully",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stop before entering the intersection as long as you can do so safely"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Stop. Yield to all cross traffic before crossing the intersection"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Slow down and cross the intersection carefully"
+                    }
+                ]
+            },
+            {
+                "value0": "There is no crosswalk and you see a pedestrain crossing your lane ahead. You should",
+                "value1": "Stop and let him/her finish crossing the street",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Make eye contact and then pass him/her"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Slow down as you pass him/her"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Stop and let him/her finish crossing the street"
+                    }
+                ]
+            },
+            {
+                "value0": "A solid yellow line next to a broken yellow line means that vehicles",
+                "value1": "Next to the solid line may pass",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "In both directions may pass"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Next to the broken line may pass"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Next to the solid line may pass"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -30,7 +30,7 @@ string cwd() {
 }
 
 #ifdef _WIN32
-static string QUESTION_FILE =
+static string QUESTION_FILE = "C:\Users\jday\source\CA-DMV-WIN\questions.json";
 #else
 static string QUESTION_FILE = ( cwd().find("jakeday") != string::npos ? "/Users/jakeday/questions.json" : "/Users/jday/questions.json");
 #endif
