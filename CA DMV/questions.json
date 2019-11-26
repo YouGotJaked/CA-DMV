@@ -321,7 +321,7 @@
                     },
                     {
                         "key": 99,
-                        "value": "THe lane in the center of the road"
+                        "value": "The lane in the center of the road"
                     }
                 ]
             },
@@ -812,7 +812,7 @@
                 ]
             },
             {
-                "value0": "You see a signal persion at a road construction site ahead. You should obey his or her instructions",
+                "value0": "You see a signal person at a road construction site ahead. You should obey his or her instructions",
                 "value1": "At all times",
                 "value2": [
                     {
@@ -885,7 +885,7 @@
             },
             {
                 "value0": "A solid yellow line next to a broken yellow line means that vehicles",
-                "value1": "Next to the solid line may pass",
+                "value1": "Next to the broken line may pass",
                 "value2": [
                     {
                         "key": 97,
@@ -1172,7 +1172,7 @@
                 ]
             },
             {
-                "value0": "A drive in front of you is signaling with his or her hand and arm pointing upward. This driver want to",
+                "value0": "A driver in front of you is signaling with his or her hand and arm pointing upward. This driver want to",
                 "value1": "Turn right",
                 "value2": [
                     {
@@ -1217,7 +1217,7 @@
                     },
                     {
                         "key": 98,
-                        "value": "SIt on the lap of an elder child, with a seat belt fastened to both"
+                        "value": "Sit on the lap of an elder child, with a seat belt fastened to both"
                     },
                     {
                         "key": 99,
@@ -1532,7 +1532,7 @@
                 ]
             },
             {
-                "value0": "Before reachinf the crest of a hill or entering a curve, you must _________, and watch for oncoming vehicles",
+                "value0": "Before reaching the crest of a hill or entering a curve, you must _________, and watch for oncoming vehicles",
                 "value1": "Slow down, move to the right side of the road",
                 "value2": [
                     {
@@ -1807,7 +1807,7 @@
                 "value2": [
                     {
                         "key": 97,
-                        "value": "DO not pull out to pass unless you know you will have enough space to pull back into your lane"
+                        "value": "Doc not pull out to pass unless you know you will have enough space to pull back into your lane"
                     },
                     {
                         "key": 98,
@@ -1901,7 +1901,7 @@
                     },
                     {
                         "key": 98,
-                        "value": ""
+                        "value": "The far left lane"
                     },
                     {
                         "key": 99,
@@ -2342,7 +2342,7 @@
                 ]
             },
             {
-                "value0": "On a two-way roadway with a center  lane, drivers from either direction can __________ from the center lane",
+                "value0": "On a two-way roadway with a center lane, drivers from either direction can __________ from the center lane",
                 "value1": "Make left turns and U-turns",
                 "value2": [
                     {
@@ -2432,7 +2432,7 @@
                 ]
             },
             {
-                "value0": "At an intersection, a steady yellow arrow singal pointing left indicates to the driver that",
+                "value0": "At an intersection, a steady yellow arrow signal pointing left indicates to the driver that",
                 "value1": "The signal is about to change to a green or red light or a red arrow",
                 "value2": [
                     {
