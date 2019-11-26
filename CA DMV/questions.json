@@ -900,6 +900,1860 @@
                         "value": "Next to the solid line may pass"
                     }
                 ]
+            },
+            {
+                "value0": "A traffic signal with a flashing yellow arrow means that you should",
+                "value1": "Yield and then proceed with caution",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Proceed with caution but turns are not permitted in the direction of the arrow"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Stop and be prepared to obey the next signal"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Yield and then proceed with caution"
+                    }
+                ]
+            },
+            {
+                "value0": "A(n) __________ sign on a truck means that the truck's load is potentially dangerous",
+                "value1": "Diamond-shaped",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Diamond-shaped"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Rectangular white"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Octagonal"
+                    }
+                ]
+            },
+            {
+                "value0": "On a two-lane undivided highway, the maximum speed limit for vehicles towing trailers is ______ unless otherwise posted",
+                "value1": "55 mph",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "55 mph"
+                    },
+                    {
+                        "key": 98,
+                        "value": "65 mph"
+                    },
+                    {
+                        "key": 99,
+                        "value": "60 mph"
+                    }
+                ]
+            },
+            {
+                "value0": "If you are in an intersection when you hear the siren of an emergency vehicle, you should",
+                "value1": "Continue through the intersection, then move to the right and stop",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Move to the right and stop in the intersection"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Continue through the intersection, then move to the left and stop"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Continue through the intersection, then move to the right and stop"
+                    }
+                ]
+            },
+            {
+                "value0": "If your parked car rolls away and hits another unattended vehicle, you should",
+                "value1": "Report the incident to the police",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Remove your car and go on your way"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Sound your horn to attract attention"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Report the incident to the police"
+                    }
+                ]
+            },
+            {
+                "value0": "To avoid tailgating, one should follow the",
+                "value1": "Three-second rule",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Two-second rule"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Four-second rule"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Three-second rule"
+                    }
+                ]
+            },
+            {
+                "value0": "If your vehicle starts to hydroplane, you should",
+                "value1": "Slow down gradually",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Apply the brakes"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Slow down gradually"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Press your gass pedal"
+                    }
+                ]
+            },
+            {
+                "value0": "The broken white lanes on the pavement mean that",
+                "value1": "Passing is allowed if done safely",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Passing is allowed if done safely"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Traffic moves in opposite directions"
+                    },
+                    {
+                        "key": 99,
+                        "value": "No passing is allowed"
+                    }
+                ]
+            },
+            {
+                "value0": "What type of sign is a red-and-white traingle pointing downward",
+                "value1": "Yield",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Yield"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Stop"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Slow-moving vehicle"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of the following statements about lane markings is true",
+                "value1": "A solid white line between lanes of traffic means that you should stay in your lane unless a special situation requires you to change lanes",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "A solid white line between lanes of traffic means that you should stay in your lane unless a special situation requires you to change lanes"
+                    },
+                    {
+                        "key": 98,
+                        "value": "A broken yellow line between opposing lanes of traffic means that you may not cross the line"
+                    },
+                    {
+                        "key": 99,
+                        "value": "A double solid line between opposing lanes of traffic means that vehicles on either side can pass"
+                    }
+                ]
+            },
+            {
+                "value0": "You can make a left turn on a red light",
+                "value1": "Only from a one-way street onto another one-way street",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Only from a one-way street onto another one-way street"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Only from a two-way street onto another two-way street"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Only from a one-way street onto a two-way street"
+                    }
+                ]
+            },
+            {
+                "value0": "When you approach an intersection with a through road but without stop signs or yield signs, you must",
+                "value1": "Yield to traffic and pedestrains on the through road",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Make a sharp turn to match the speed of the traffic on the through road"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Yield to traffic and pedestrains on the through road"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Accelerate to merge with traffic"
+                    }
+                ]
+            },
+            {
+                "value0": "Use ______________ steering when correcting a skid",
+                "value1": "Hand-over-hand",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Hand-by-hand"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Hand-over-hand"
+                    },
+                    {
+                        "key": 99,
+                        "value": "One-hand"
+                    }
+                ]
+            },
+            {
+                "value0": "When two vehicles meet on a steep mountain road where neither can pass, which vehicle has the right-of-way",
+                "value1": "The vehicle traveling uphill",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "The vehicle traveling downhill"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Both vehicles"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The vehicle traveling uphill"
+                    }
+                ]
+            },
+            {
+                "value0": "A driver who is involved in a significant collision must report it to the DMV within",
+                "value1": "10 days",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "20 days"
+                    },
+                    {
+                        "key": 98,
+                        "value": "15 days"
+                    },
+                    {
+                        "key": 99,
+                        "value": "10 days"
+                    }
+                ]
+            },
+            {
+                "value0": "A drive in front of you is signaling with his or her hand and arm pointing upward. This driver want to",
+                "value1": "Turn right",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Turn left"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Turn right"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Stop"
+                    }
+                ]
+            },
+            {
+                "value0": "When you want to enter a freeway, you should",
+                "value1": "Enter the freeway at or near the speed of freeway traffic",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stop before merging into freeway traffic"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Stop and yield to the traffic on the freeway"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Enter the freeway at or near the speed of freeway traffic"
+                    }
+                ]
+            },
+            {
+                "value0": "If all the rear seats are already occupied by children under 7 years of age, a child under 8 years of age may",
+                "value1": "Ride in the front seat if properly secured in a federally approved child passenger restraint system",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Ride in the front seat without a seat belt"
+                    },
+                    {
+                        "key": 98,
+                        "value": "SIt on the lap of an elder child, with a seat belt fastened to both"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Ride in the front seat if properly secured in a federally approved child passenger restraint system"
+                    }
+                ]
+            },
+            {
+                "value0": "A ___ painted curb is designated for disabled persons who display their placards",
+                "value1": "Blue",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Blue"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Green"
+                    },
+                    {
+                        "key": 99,
+                        "value": "White"
+                    }
+                ]
+            },
+            {
+                "value0": "What is the first thing you should do during an enforcement stop",
+                "value1": "Turn on your right turn signal",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stop on the left shoulder"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Turn on your right turn signal"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Stop on the center median"
+                    }
+                ]
+            },
+            {
+                "value0": "If a bicycle on your right reaches an intersection at the same time as you do, you should",
+                "value1": "Yield to the bicycle",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Move slowly along with the bicycle"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Move because you have the right-of-way"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Yield to the bicycle"
+                    }
+                ]
+            },
+            {
+                "value0": "If you are having vehicle trouble and you need to stop, what is the first thing you should do",
+                "value1": "Pull of the road and away from traffic",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stop your vehicle over a hill or just around a curve for visibility"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Pull of the road and away from traffic"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Lift the hood to signal an emergency"
+                    }
+                ]
+            },
+            {
+                "value0": "A steady red arrow signal means",
+                "value1": "You must stop and you cannot turn in the direction of the arrow",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "You should prepare to stop and yield to oncoming traffic before turning"
+                    },
+                    {
+                        "key": 98,
+                        "value": "You must stop and then proceed when it is safe to do so"
+                    },
+                    {
+                        "key": 99,
+                        "value": "You must stop and you cannot turn in the direction of the arrow"
+                    }
+                ]
+            },
+            {
+                "value0": "Two sets of solid double yellow lines spaced two or more feet apart indicate",
+                "value1": "A barrier",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "A parking lot"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Two-way traffic"
+                    },
+                    {
+                        "key": 99,
+                        "value": "A barrier"
+                    }
+                ]
+            },
+            {
+                "value0": "In a roundabout, you must drive in",
+                "value1": "A counterclockwise direction",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "The direction of the oncoming vehicles"
+                    },
+                    {
+                        "key": 98,
+                        "value": "A counterclockwise direction"
+                    },
+                    {
+                        "key": 99,
+                        "value": "A clockwise direction"
+                    }
+                ]
+            },
+            {
+                "value0": "A double solid white line",
+                "value1": "Separated two lanes traveling in the same direction, but crossing the line is prohibited",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Separates opposing lanes, and crossing the line is prohibited"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Separated two lanes traveling in the same direction, but crossing the line is prohibited"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Separates two lanes traveling in the same direction, and crossing the line is permitted"
+                    }
+                ]
+            },
+            {
+                "value0": "When you see livestock near the roadway, you should",
+                "value1": "Follow directions from the person in charge of the animals",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Follow directions from the person in charge of the animals"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Blow your horn continuously until the animals cross the road"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Turn safely away from these animals"
+                    }
+                ]
+            },
+            {
+                "value0": "You must turn on your headlights ___________ after sunset",
+                "value1": "30 minutes",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "30 minutes"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Immediately"
+                    },
+                    {
+                        "key": 99,
+                        "value": "20 minutes"
+                    }
+                ]
+            },
+            {
+                "value0": "Special \"turnout\" areas marked on a two-lane road",
+                "value1": "Allow vehicles to pass",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Allow vehicles to make left turns"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Allow vehicles to make U-turns"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Allow vehicles to pass"
+                    }
+                ]
+            },
+            {
+                "value0": "Locked wheel skids are usually caused by",
+                "value1": "Braking too hard at a high speed",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Braking too hard at a high speed"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Turning the ignition to the lock position while the vehicle is still in motion"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Pressing the gass and brake pedals at the same time"
+                    }
+                ]
+            },
+            {
+                "value0": "At 55 mph, under good conditions, your vehicle will travel about ____ feet in the time that it takes you to react to an object in your path and bring your vehicle to a complete stop",
+                "value1": "400",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "200"
+                    },
+                    {
+                        "key": 98,
+                        "value": "400"
+                    },
+                    {
+                        "key": 99,
+                        "value": "300"
+                    }
+                ]
+            },
+            {
+                "value0": "When driving in fog, you should use your",
+                "value1": "Low-beam headlights",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Low-beam headlights"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Emergency flashers"
+                    },
+                    {
+                        "key": 99,
+                        "value": "High-beam headlights"
+                    }
+                ]
+            },
+            {
+                "value0": "At an unmarked crosswalk, you must",
+                "value1": "Yield the right-of-way to the pedestrians",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stop and ask the pedestrians to cross quickly"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Yield the right-of-way to the pedestrians"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Increase your speed and cross before the pedestrians"
+                    }
+                ]
+            },
+            {
+                "value0": "In California, the speed limit for a blind intersection is",
+                "value1": "15 mph",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "20 mph"
+                    },
+                    {
+                        "key": 98,
+                        "value": "15 mph"
+                    },
+                    {
+                        "key": 99,
+                        "value": "25 mph"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of the following statements about using headlights is FALSE",
+                "value1": "High beams are used when traveling behind other vehicles",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "High beams are used when traveling behind other vehicles"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Low beams are used in city driving and driving in traffic on roadways"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Low beams are used when traveling in fog, rain, or snow"
+                    }
+                ]
+            },
+            {
+                "value0": "Before reachinf the crest of a hill or entering a curve, you must _________, and watch for oncoming vehicles",
+                "value1": "Slow down, move to the right side of the road",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Slow down, move to the right side of the road"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Speed up, turn on the headlights"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Slow down, move to the left side of the road"
+                    }
+                ]
+            },
+            {
+                "value0": "Before backing up your vehicle, you should look to the front, sides, and rear, and continue to look _________ while backing",
+                "value1": "To the rear",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "To the rear"
+                    },
+                    {
+                        "key": 98,
+                        "value": "In the side mirrors"
+                    },
+                    {
+                        "key": 99,
+                        "value": "To the front"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of the following statements is TRUE about airbags",
+                "value1": "They are installed to provide additional safety beyond seat belts",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "They can be installed instead of seat belts"
+                    },
+                    {
+                        "key": 98,
+                        "value": "They are installed to provide additional safety beyond seat belts"
+                    },
+                    {
+                        "key": 99,
+                        "value": "They must be installed in all cars"
+                    }
+                ]
+            },
+            {
+                "value0": "If a car approaches you with its high-beam headlights on, you must ____________ to kepe yourself from being temporarily blinded",
+                "value1": "Look toward the right edge of the road",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Look toward the left edge of the road"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Look toward the center of the road"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Look toward the right edge of the road"
+                    }
+                ]
+            },
+            {
+                "value0": "Large electronic flashing arrow panels may be used in work zones day and night to",
+                "value1": "Guide drivers into certain traffic lanes",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Guide drivers into certain traffic lanes"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Divert drivers into work zones"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Guide drivers into certain parking zones"
+                    }
+                ]
+            },
+            {
+                "value0": "Following too closely behind another vehicle is called",
+                "value1": "Tailgating",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Aggressive driving"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Tailgating"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Defensive driving"
+                    }
+                ]
+            },
+            {
+                "value0": "If a tire suddenly goes flat while you're driving, you should",
+                "value1": "Hold the steering wheel tighly and keep the vehicle straight",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Move to the left side of the road"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Increase your speed"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Hold the steering wheel tighly and keep the vehicle straight"
+                    }
+                ]
+            },
+            {
+                "value0": "High-Occupancy Vehicle (HOV) lanes are reserved for",
+                "value1": "Car pools and vehicles whith more than one person",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Tractor-trailers with less than three persons"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Car pools and vehicles whith more than one person"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Farm machinery vehicles and trucks"
+                    }
+                ]
+            },
+            {
+                "value0": "A center lane between lanes of traffic traveling in opposite directions may be designated for",
+                "value1": "Left turns only",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Right turns only"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Passing"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Left turns only"
+                    }
+                ]
+            },
+            {
+                "value0": "A yield sign indicates that a driver must slow down and be prepared to ________ if a vehicle or pedestrian with the right-of-way is approaching from another direction",
+                "value1": "Stop",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Increase speed"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Stop"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Make a turn"
+                    }
+                ]
+            },
+            {
+                "value0": "What should you do if another driver tailgates your vehicle",
+                "value1": "Change lanes to allow the tailgater to pass",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Do not allow the tailgater to pass you"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Increase your speed to get away from the tailgater"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Change lanes to allow the tailgater to pass"
+                    }
+                ]
+            },
+            {
+                "value0": "What is the first rule of a safe and legal turn",
+                "value1": "Move into the proper lane well before the turn",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Reduce speed"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Increase speed"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Move into the proper lane well before the turn"
+                    }
+                ]
+            },
+            {
+                "value0": "It is unsafe for you to pass when",
+                "value1": "You are moving through an intersection",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "You are moving through an intersection"
+                    },
+                    {
+                        "key": 98,
+                        "value": "The pavement markings are broken yellow lines"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The vehicle ahead is traveling slower than the safe speed"
+                    }
+                ]
+            },
+            {
+                "value0": "When you turn off a high-speed, two-lane roadway, ________ if you have traffic following you",
+                "value1": "Try not to slow down your vehicle too quickly",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Try to slow down your vehicle quickly"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Try not to slow down your vehicle too quickly"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Try to increase the speed of your vehicle"
+                    }
+                ]
+            },
+            {
+                "value0": "What should you do if you are overtaking a bicycle and an oncoming vehicle is approaching at the same time",
+                "value1": "Slow down and let the oncoming vehicle pass first to leave extra room for the bicycle",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Slow down and let the oncoming vehicle pass first to leave extra room for the bicycle"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Overtake the bicycle first to leave extra room for the oncoming vehicle"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Leave a little room for the oncoming vehicle while overtaking the bicycle"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of the following statements about passing other vehicles are true",
+                "value1": "Both of the above are true",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "DO not pull out to pass unless you know you will have enough space to pull back into your lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Always signal before passing"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Both of the above are true"
+                    }
+                ]
+            },
+            {
+                "value0": "Blind pedestrians may carry _______ canes or use guide dogs",
+                "value1": "White",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Black"
+                    },
+                    {
+                        "key": 98,
+                        "value": "White"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Red"
+                    }
+                ]
+            },
+            {
+                "value0": "Your vehicle breaks down on a freeway. You are not able to move the vehicle off the road completely as the road shoulder is too narrow. What is the best thing to do",
+                "value1": "Exit the right side of your vehicle and proceed to a safe place",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Exit the right side of your vehicle and proceed to a safe place"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Leave the vehicle immediately and wave at drivers to let them know you are blocking the lane"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Stay inside your vehicle with the seat belt on until help arrives"
+                    }
+                ]
+            },
+            {
+                "value0": "___________ are the most likely place for car and motorcycle collisions to occur",
+                "value1": "Intersections",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Roundabouts"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Intersections"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Expressways"
+                    }
+                ]
+            },
+            {
+                "value0": "You must use your high-beam headlights in all of the following situations, except",
+                "value1": "In fog, snow, or heavy rain",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "In fog, snow, or heavy rain"
+                    },
+                    {
+                        "key": 98,
+                        "value": "On unfamiliar roads"
+                    },
+                    {
+                        "key": 99,
+                        "value": "In constructions areas"
+                    }
+                ]
+            },
+            {
+                "value0": "When you turn left from a one-way street onto another one-way street, you should turn into",
+                "value1": "Any safely open lane",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "The far right lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": ""
+                    },
+                    {
+                        "key": 99,
+                        "value": "Any safely open lane"
+                    }
+                ]
+            },
+            {
+                "value0": "When should you switch on your high-beam headlights",
+                "value1": "When driving in open country at night or on dark city streets",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "All night"
+                    },
+                    {
+                        "key": 98,
+                        "value": "At night when it rains"
+                    },
+                    {
+                        "key": 99,
+                        "value": "When driving in open country at night or on dark city streets"
+                    }
+                ]
+            },
+            {
+                "value0": "All regulatory devices on the road tell you",
+                "value1": "To stop, proceed in a certain direction, or limit your speed",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "To stop, proceed in a certain direction, or limit your speed"
+                    },
+                    {
+                        "key": 98,
+                        "value": "About hazardous conditions or the possibility of hazardous conditions"
+                    },
+                    {
+                        "key": 99,
+                        "value": "How to find your way safely or provide information to make your trip more comfortable"
+                    }
+                ]
+            },
+            {
+                "value0": "If you plan to turn beyond an intersection, you must",
+                "value1": "Start signaling when you are in the intersction",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Signal before passing through the intersection"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Signal just before making the turn"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Start signaling when you are in the intersction"
+                    }
+                ]
+            },
+            {
+                "value0": "The wide while line painted across a traffic lane before an intersction is known as a",
+                "value1": "Limit line",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Crosswalk line"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Limit line"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Merge line"
+                    }
+                ]
+            },
+            {
+                "value0": "Lanes of traffic going in opposite directions are divided by",
+                "value1": "Yellow lines",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "White lines"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Yellow lines"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Black lines"
+                    }
+                ]
+            },
+            {
+                "value0": "On a highway with three or more lanes going in one direction, vehicles passing others or turning left should use",
+                "value1": "The left lane",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "THe middle lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "The right lane"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The left lane"
+                    }
+                ]
+            },
+            {
+                "value0": "When you park and leave your vehicle on a highway or street, you should NOT",
+                "value1": "Lower the windows",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Set the parking brake"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Lower the windows"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Stop the engine"
+                    }
+                ]
+            },
+            {
+                "value0": "You are driving on the freeway and notice another driver using a handheld cell phone. What is the best thing to do",
+                "value1": "Increase your following distance",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Alert the police immediately"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Honk your horn and wave to the driver to get off the phone"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Increase your following distance"
+                    }
+                ]
+            },
+            {
+                "value0": "When turning left from a multi-lane one-way road onto another one-way road, start your turn from",
+                "value1": "The far left lane",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "The far right lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Any lane"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The far left lane"
+                    }
+                ]
+            },
+            {
+                "value0": "If you are approaching a stop sign, you must",
+                "value1": "Stop at the solid white limit line",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stop at the solid white limit line"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Stop at the broken white limit line"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Stop at the broken yellow limit line"
+                    }
+                ]
+            },
+            {
+                "value0": "When you approach a roundabout, you must enter to the _________ of the central island",
+                "value1": "Right",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Center"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Right"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Left"
+                    }
+                ]
+            },
+            {
+                "value0": "At an intersection, you should yield to another vehicle",
+                "value1": "In both of the above situations",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "If the vehicle is just starting to enter the intersection"
+                    },
+                    {
+                        "key": 98,
+                        "value": "If the vehicle is to your right and arrived at the same time as you"
+                    },
+                    {
+                        "key": 99,
+                        "value": "In both of the above situations"
+                    }
+                ]
+            },
+            {
+                "value0": "Flashing yellow lights on a school bus require other drivers to",
+                "value1": "Slow their vehicles and prepare to stop",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Slow their vehicles and pass with caution"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Pass quickly"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Slow their vehicles and prepare to stop"
+                    }
+                ]
+            },
+            {
+                "value0": "If a pedestrian is in a marked or unmarked crosswalk, you must",
+                "value1": "Yield to the pedestrian",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Reduce your speed and proceed with caution"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Yield to the pedestrian"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Increase your speed and cross the crosswalk quickly"
+                    }
+                ]
+            },
+            {
+                "value0": "You may not pass another vehicle except",
+                "value1": "When there is a broken yellow line next to your lane",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "When there is a broken yellow line next to your lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "On the right shoulder of the highway"
+                    },
+                    {
+                        "key": 99,
+                        "value": "When there is a school bus on the same roadway with flashing lights"
+                    }
+                ]
+            },
+            {
+                "value0": "On two-lane highways, you are allowed to pass",
+                "value1": "When there is a broken yellow line on your side of the center dividing line",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "While crossing or within 100 feet of a railroad crossing"
+                    },
+                    {
+                        "key": 98,
+                        "value": "When you are approaching the top of a hill or are on a curve, and there is no clear view ahead"
+                    },
+                    {
+                        "key": 99,
+                        "value": "When there is a broken yellow line on your side of the center dividing line"
+                    }
+                ]
+            },
+            {
+                "value0": "If someone is following you too closely, you must",
+                "value1": "Slow down and encourage the driver to pass",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Slow down and encourage the driver to pass"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Discourage this action and not allow the driver to pass"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Increase your speed"
+                    }
+                ]
+            },
+            {
+                "value0": "If you see two solid yellow lines on a roadway, it means that",
+                "value1": "No passing is permitted",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "No passing is permitted"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Passing is permitted during the day"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Passing is permitted at any time"
+                    }
+                ]
+            },
+            {
+                "value0": "A triangular orange sign on the rear of a vehicle indicates that",
+                "value1": "The vehicle cannot travel faster than 25 mph",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "The vehicle can travel faster than 25 mph"
+                    },
+                    {
+                        "key": 98,
+                        "value": "The vehicle cannot travel faster than 25 mph"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The vehicle cannot travel faster than 45 mph"
+                    }
+                ]
+            },
+            {
+                "value0": "If a driver extends his or her left arm out horizontally, it indicates that the driver is going to",
+                "value1": "Make a left turn",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Stop the vehicle"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Make a left turn"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Make a right turn"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of the following are used as left-edge lines on divided highways",
+                "value1": "Single solid yellow lines",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Double solid white lines"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Single solid yellow lines"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Single solid white lines"
+                    }
+                ]
+            },
+            {
+                "value0": "With any turning vehicle, the rear wheels follow a _________ than the front wheels",
+                "value1": "Shorter path",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Longer path"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Shorter path"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Slower path"
+                    }
+                ]
+            },
+            {
+                "value0": "When turning right into a two-way street, start in the right-hand lane and enter into",
+                "value1": "The lane nearest to the right edge of the road",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "The far left lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Any available lane"
+                    },
+                    {
+                        "key": 99,
+                        "value": "The lane nearest to the right edge of the road"
+                    }
+                ]
+            },
+            {
+                "value0": "Car drivers should never drive alongside a motorcycle in the same lane because",
+                "value1": "Motorcyles need the full width of the lane",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Motorcyclists may misguide the car driver"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Motorcyles need the full width of the lane"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Motorcycles do not have signal lights"
+                    }
+                ]
+            },
+            {
+                "value0": "On a two-way roadway with a center  lane, drivers from either direction can __________ from the center lane",
+                "value1": "Make left turns and U-turns",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Make left turns and U-turns"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Park"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Make right turns"
+                    }
+                ]
+            },
+            {
+                "value0": "A double solid yellow line in the center of the road means that",
+                "value1": "Passing is not allowed in either direction",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Passing is not allowed in either direction"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Passing is allowed in either direction"
+                    },
+                    {
+                        "key": 99,
+                        "value": "All traffic must stop at the line"
+                    }
+                ]
+            },
+            {
+                "value0": "If you are parallel parked on the right-hand side of the street, you should __________ before pulling out into traffic",
+                "value1": "Signal a left turn and look over your left shoulder",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Signal a right turn and look over your right shoulder"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Signal a left turn and look over your right shoulder"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Signal a left turn and look over your left shoulder"
+                    }
+                ]
+            },
+            {
+                "value0": "A two-headed arrow with one head pointing straight ahead and the other pointing to the left means that",
+                "value1": "You may either proceed straight ahead or turn left",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "You may either proceed straight ahead or merge left"
+                    },
+                    {
+                        "key": 98,
+                        "value": "You may only turn left"
+                    },
+                    {
+                        "key": 99,
+                        "value": "You may either proceed straight ahead or turn left"
+                    }
+                ]
+            },
+            {
+                "value0": "If you approach an intersection with a steady yellow light, you must",
+                "value1": "Slow down and proceed with caution, if you cannot stop safely",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Slow down and proceed with caution, if you cannot stop safely"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Stop, look for pedestrians, and proceed with caution"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Stop and wait for the red light"
+                    }
+                ]
+            },
+            {
+                "value0": "At an intersection, a steady yellow arrow singal pointing left indicates to the driver that",
+                "value1": "The signal is about to change to a green or red light or a red arrow",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "He or she must increase speed"
+                    },
+                    {
+                        "key": 98,
+                        "value": "The signal is about to change to a green or red light or a red arrow"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Oncoming traffic is stopped and he or she may turn left"
+                    }
+                ]
+            },
+            {
+                "value0": "Unless otherwise posted, the maximum speed limit is _____ on a California two-lane undivided highway",
+                "value1": "55 mph",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "65 mph"
+                    },
+                    {
+                        "key": 98,
+                        "value": "55 mph"
+                    },
+                    {
+                        "key": 99,
+                        "value": "35 mph"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of the following statements about passing a vehicle is FALSE",
+                "value1": "You can exceed the speed limit to pass quickly",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Do not pass more than one vehicle at a time"
+                    },
+                    {
+                        "key": 98,
+                        "value": "You can exceed the speed limit to pass quickly"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Do not follow another vehicle that is passing a car in front of you"
+                    }
+                ]
+            },
+            {
+                "value0": "Vehicles approaching a roundabout must",
+                "value1": "Yield to the traffic in the roundabout",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Yield to the traffic in the roundabout"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Enter the roundabout to the left of the central island"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Come to a complete stop and wait for traffic in the roundabout to clear"
+                    }
+                ]
+            },
+            {
+                "value0": "While driving, when you see a triangular road sign, you must",
+                "value1": "Reduce your speed and yield",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Come to a complete stop"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Increase your speed"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Reduce your speed and yield"
+                    }
+                ]
+            },
+            {
+                "value0": "Do not use your horn",
+                "value1": "In any of the above situations",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "To honk at a blind person"
+                    },
+                    {
+                        "key": 98,
+                        "value": "When you want the driver in front of you to move out of the way"
+                    },
+                    {
+                        "key": 99,
+                        "value": "In any of the above situations"
+                    }
+                ]
+            },
+            {
+                "value0": "A _________ indicates the outer edge of a roadway, and it may be crossed only by traffic moving to or from the shoulder",
+                "value1": "Solid white line",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Broken white line"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Solid yellow line"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Solid white line"
+                    }
+                ]
+            },
+            {
+                "value0": "An __________ is the connection of a freeway to a road or another freeway by a series of ramps",
+                "value1": "Interchange",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Acceleration lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Exit ramp"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Interchange"
+                    }
+                ]
+            },
+            {
+                "value0": "What is the correct hand signal for indicating a right turn",
+                "value1": "Hand and arm extended upward",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Hand and arm extended downward"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Hand and arm extended upward"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Hand and arm extended outward"
+                    }
+                ]
+            },
+            {
+                "value0": "Flag persons are often located on highways and in work zones",
+                "value1": "To stop, slow, or guide the traffic in work zones",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "To report accidents to the police department and insurance companies"
+                    },
+                    {
+                        "key": 98,
+                        "value": "To stop, slow, or guide the traffic in work zones"
+                    },
+                    {
+                        "key": 99,
+                        "value": "To slow vehicles to a lower speed limit posted ahead"
+                    }
+                ]
+            },
+            {
+                "value0": "The primary traveling aids for a blind person include",
+                "value1": "A white cane and a trained guide dog",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "A white cane and a trained guide dog"
+                    },
+                    {
+                        "key": 98,
+                        "value": "A white cane and a wheelchair"
+                    },
+                    {
+                        "key": 99,
+                        "value": "A red can and a trained guide dog"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of the following statements about the right-of-way is FALSE",
+                "value1": "At a T-intersction without signs or signals, a vehicle on the through road must yield to vehicles on the terminating road",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "At a T-intersction without signs or signals, a vehicle on the through road must yield to vehicles on the terminating road"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Vehicles must yield to pedestrians in unmarked crosswalks"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Vehicles entering or crossing a roadway from a private driveway must yield to all approaching vehicles"
+                    }
+                ]
+            },
+            {
+                "value0": "On two-lane roads where traffic moves in opposite directions, you mass pass on the left only when",
+                "value1": "A broken yellow line is in your lane",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "A broken yellow line is in your lane"
+                    },
+                    {
+                        "key": 98,
+                        "value": "A solid yellow line is in your lane"
+                    },
+                    {
+                        "key": 99,
+                        "value": "A double solid yellow line is in the center"
+                    }
+                ]
+            },
+            {
+                "value0": "On one-way roads, yellow lines are used as",
+                "value1": "Left-edge lines",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Right-edge lines"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Center lines"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Left-edge lines"
+                    }
+                ]
+            },
+            {
+                "value0": "Which of the following right-of-way rules is FALSE",
+                "value1": "At an intersection where there is no stop sign, yield sign, or traffic signal, drivers must yield to vehicles coming from the left",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "At an intersection where there is no stop sign, yield sign, or traffic signal, drivers must yield to vehicles coming from the left"
+                    },
+                    {
+                        "key": 98,
+                        "value": "You must obey signals given by a law enforcement officer, even if the officer's signals contradict the traffic signals"
+                    },
+                    {
+                        "key": 99,
+                        "value": "At all times, drivers must yield the right-of-way to pedestrians in a marked or unmarked crosswalk"
+                    }
+                ]
+            },
+            {
+                "value0": "Unless it is prohibited, drivers must use the three-point turn to",
+                "value1": "Turn around on a narrow street",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Turn around on a narrow street"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Change lanes"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Pass another vehicle on a narrow road"
+                    }
+                ]
+            },
+            {
+                "value0": "__________ occurs on wet roads when your front tires start to ride on water instead of on the road",
+                "value1": "Hydroplaning",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "Weaving"
+                    },
+                    {
+                        "key": 98,
+                        "value": "Hydroplaning"
+                    },
+                    {
+                        "key": 99,
+                        "value": "Tailgating"
+                    }
+                ]
+            },
+            {
+                "value0": "When approaching an intersection to a make a right turn, you must stay _________ and make the turn close to the right curb",
+                "value1": "As close to the right as possible",
+                "value2": [
+                    {
+                        "key": 97,
+                        "value": "As close to to the left as possible"
+                    },
+                    {
+                        "key": 98,
+                        "value": "On the shoulder"
+                    },
+                    {
+                        "key": 99,
+                        "value": "As close to the right as possible"
+                    }
+                ]
             }
         ]
     }

@@ -92,6 +92,7 @@ ostream& operator<<(ostream& out, const Question& q) {
     for (auto const& a : q.answers()) {
         out << "\t[" << a.first << "] " << a.second << endl;
     }
+    //out << q.correct() << endl;
     /*
     for (Answers::size_type i = 0; i != q.answers().size(); i++) {
         out << "\t[" << (char)('a'+ i) << "] " << q.answers()[i] << endl;

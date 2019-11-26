@@ -33,6 +33,6 @@ string cwd() {
 #ifdef _WIN32
 static string QUESTION_FILE = "C:\Users\jday\source\CA-DMV-WIN\questions.json";
 #else
-static string QUESTION_FILE = ( cwd().find("jakeday") != string::npos ? "/Users/jakeday/questions.json" : "/Users/jday/questions.json");
+static string QUESTION_FILE = ( cwd().find("jakeday") != string::npos ? "/Users/jakeday/Documents/C++/CA DMV/CA DMV/questions.json" : "/Users/jday/questions.json");
 #endif
 #endif /* filepath_h */
